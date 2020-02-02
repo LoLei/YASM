@@ -1,5 +1,5 @@
 # YASM
-Yet Another Site Mapper
+**Y**et **A**nother **S**ite **M**apper
 
 ## Usage
 ```
@@ -27,6 +27,9 @@ optional arguments:
                         Output file type
   -s, --sdsp            Treat subdomains same as slash path URL parts
 ```
+
+## Related
+[YACA](https://github.com/LoLei/yaca) - Yet Another Content Auditor
 
 ## Authors
 * [@AlmostBearded](https://github.com/AlmostBearded)
