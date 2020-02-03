@@ -60,3 +60,6 @@ Can be used as input for YASM.
 * [@d4geiger](https://github.com/d4geiger)
 * [@Erago3](https://github.com/Erago3)
 * [@LoLei](https://github.com/LoLei)
+
+## Background
+Developed originally for the class [Information Architecture and Web Usability](https://courses.isds.tugraz.at/iaweb/).
