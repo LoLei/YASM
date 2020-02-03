@@ -49,7 +49,8 @@ The input file is the output of [YACA](https://github.com/LoLei/YASM#related), o
 ([full](https://github.com/LoLei/YASM/blob/master/images/nextjs-org.svg))
 
 ## Related
-[YACA](https://github.com/LoLei/yaca) - Yet Another Content Auditor
+[YACA](https://github.com/LoLei/yaca) - **Y**et **A**nother **C**ontent **A**uditor  
+Can be used as input for YASM.
 
 ## Authors
 * [@AlmostBearded](https://github.com/AlmostBearded)
