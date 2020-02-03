@@ -1,6 +1,14 @@
 # YASM
 **Y**et **A**nother **S**ite **M**apper
 
+Generate a (visual) site map free and open-source.
+
+## Requirements
+* [Graphviz](https://graphviz.readthedocs.io) or
+* [Blockdiag](http://blockdiag.com/en/blockdiag/introduction.html)
+  * with PDF support: `pip install "blockdiag[pdf]"`
+* [Python-colorspace](https://python-colorspace.readthedocs.io)
+
 ## Usage
 ```
 $ ./yasm.py -h
