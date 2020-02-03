@@ -39,11 +39,12 @@ optional arguments:
 ## Example
 `./yasm.py ../yaca/output/brunch-io.json`
 
-![YASM brunch.io output](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "YASM brunch.io output")
+![YASM brunch.io output](https://raw.githubusercontent.com/LoLei/YASM/master/images/brunch-io.png "YASM brunch.io output")
 
 `$ ./yasm.py ../yaca/output/nextjs-org.json -e blockdiag --orientation landscape -wp 30 -hp 10`
 
-![YASM nextjs.org output](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "YASM nextjs.org output")
+![YASM nextjs.org output](https://raw.githubusercontent.com/LoLei/YASM/master/images/nextjs-org.png "YASM nextjs.org output")
+([full](https://github.com/LoLei/YASM/blob/master/images/nextjs-org.svg))
 
 ## Related
 [YACA](https://github.com/LoLei/yaca) - Yet Another Content Auditor
