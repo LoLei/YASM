@@ -52,6 +52,9 @@ The input file is the output of [YACA](https://github.com/LoLei/YASM#related), o
 [YACA](https://github.com/LoLei/yaca) - **Y**et **A**nother **C**ontent **A**uditor  
 Can be used as input for YASM.
 
+## License
+[CC BY-SA 4.0](https://github.com/LoLei/YASM/blob/master/yasm/LICENSE)
+
 ## Authors
 * [@AlmostBearded](https://github.com/AlmostBearded)
 * [@d4geiger](https://github.com/d4geiger)
