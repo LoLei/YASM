@@ -37,6 +37,8 @@ optional arguments:
 ```
 
 ## Example
+The input file is the output of [YACA](https://github.com/LoLei/YASM#related), or JSON of the same format.
+
 `./yasm.py ../yaca/output/brunch-io.json`
 
 ![YASM brunch.io output](https://raw.githubusercontent.com/LoLei/YASM/master/images/brunch-io.png "YASM brunch.io output")
