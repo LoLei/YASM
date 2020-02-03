@@ -36,6 +36,15 @@ optional arguments:
   -s, --sdsp            Treat subdomains same as slash path URL parts
 ```
 
+## Example
+`./yasm.py ../yaca/output/brunch-io.json`
+
+![YASM brunch.io output](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "YASM brunch.io output")
+
+`$ ./yasm.py ../yaca/output/nextjs-org.json -e blockdiag --orientation landscape -wp 30 -hp 10`
+
+![YASM nextjs.org output](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "YASM nextjs.org output")
+
 ## Related
 [YACA](https://github.com/LoLei/yaca) - Yet Another Content Auditor
 
